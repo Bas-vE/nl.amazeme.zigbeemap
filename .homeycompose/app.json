@@ -1,0 +1,28 @@
+{
+  "id": "nl.amazeme.zigbeemap",
+  "version": "1.0.0",
+  "compatibility": ">=5.0.0",
+  "sdk": 3,
+  "platforms": [
+    "local"
+  ],
+  "name": {
+    "en": "Zigbee Map"
+  },
+  "description": {
+    "en": "Shows a map of all the connected Zigbee devices"
+  },
+  "category": [
+    "tools"
+  ],
+  "permissions": [],
+  "images": {
+    "small": "/assets/images/small.png",
+    "large": "/assets/images/large.png",
+    "xlarge": "/assets/images/xlarge.png"
+  },
+  "author": {
+    "name": "Bas van Etten",
+    "email": "bas.v.etten@gmail.com"
+  }
+}
